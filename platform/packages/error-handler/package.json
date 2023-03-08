@@ -37,7 +37,7 @@
   "dependencies": {
     "@consensys/observability": "workspace:*",
     "@nestjs/common": "^8.0.0",
-    "@nestjs/core": "^8.0.0",
+    "@nestjs/core": "^9.0.5",
     "reflect-metadata": "^0.1.13"
   },
   "lint-staged": {
