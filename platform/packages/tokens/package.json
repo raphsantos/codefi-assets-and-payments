@@ -22,7 +22,7 @@
     "@consensys/nestjs-orchestrate": "workspace:*",
     "@consensys/observability": "workspace:*",
     "@nestjs/common": "^8.0.0",
-    "@nestjs/core": "^8.0.0",
+    "@nestjs/core": "^9.0.5",
     "bignumber.js": "^9.0.0",
     "reflect-metadata": "^0.1.13"
   },
