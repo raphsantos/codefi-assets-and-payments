@@ -13,7 +13,7 @@
     "@types/webpack": "5.28.0",
     "babel-loader": "8.2.5",
     "typescript": "4.6.4",
-    "webpack": "5.70.0"
+    "webpack": "5.76.0"
   },
   "devDependencies": {
     "clean-webpack-plugin": "4.0.0",
